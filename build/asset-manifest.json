@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.788cbb44.chunk.css",
+    "main.js": "/static/js/main.75aea300.chunk.js",
+    "main.js.map": "/static/js/main.75aea300.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fdfc8d81.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fdfc8d81.js.map",
+    "static/js/2.f250963d.chunk.js": "/static/js/2.f250963d.chunk.js",
+    "static/js/2.f250963d.chunk.js.map": "/static/js/2.f250963d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.788cbb44.chunk.css.map": "/static/css/main.788cbb44.chunk.css.map",
+    "static/js/2.f250963d.chunk.js.LICENSE.txt": "/static/js/2.f250963d.chunk.js.LICENSE.txt",
+    "static/media/alberto.986db96c.png": "/static/media/alberto.986db96c.png",
+    "static/media/analogwatchbuy.e068921f.png": "/static/media/analogwatchbuy.e068921f.png",
+    "static/media/cambuy.3d9cf813.png": "/static/media/cambuy.3d9cf813.png",
+    "static/media/earpod.96a01cca.png": "/static/media/earpod.96a01cca.png",
+    "static/media/exclussive surfacepro front.07756e0c.png": "/static/media/exclussive surfacepro front.07756e0c.png",
+    "static/media/exclussive surfacestudio.b9465473.png": "/static/media/exclussive surfacestudio.b9465473.png",
+    "static/media/exclussivephone.7f822646.png": "/static/media/exclussivephone.7f822646.png",
+    "static/media/googlehomebuy.6a52d591.png": "/static/media/googlehomebuy.6a52d591.png",
+    "static/media/johncena.6c99ea80.png": "/static/media/johncena.6c99ea80.png",
+    "static/media/lapbuy.a478e811.png": "/static/media/lapbuy.a478e811.png",
+    "static/media/logo.055d11fc.png": "/static/media/logo.055d11fc.png",
+    "static/media/mobilebuy.bd0984b4.png": "/static/media/mobilebuy.bd0984b4.png",
+    "static/media/randy.13d1729c.png": "/static/media/randy.13d1729c.png",
+    "static/media/smarwatchbuy.014a53ab.png": "/static/media/smarwatchbuy.014a53ab.png",
+    "static/media/watchbuy.8085d7fc.png": "/static/media/watchbuy.8085d7fc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdfc8d81.js",
+    "static/js/2.f250963d.chunk.js",
+    "static/css/main.788cbb44.chunk.css",
+    "static/js/main.75aea300.chunk.js"
+  ]
+}
